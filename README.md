@@ -6,9 +6,9 @@ Of course, as I stated in the written document, to have PoseNET tracking your mo
 Step 0: Clone [this github repository.](https://github.com/tommymitch/posenetosc)
 
 
-Step 1: Download "node" from their official page: https://nodejs.org/en/download/
+Step 1: Download "node" from [their official page.](https://nodejs.org/en/download/)
 
-Step 2: Install the last stable version of yarn that we can find here: https://classic.yarnpkg.com/en/docs/install/#windows-stable
+Step 2: Install the last stable version of yarn that we can find [here.](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
 
 Step 3: Open the command line, go to the folder posenetosc-master (that is inside the repository that we just downloaded) and type: 
 > yarn
